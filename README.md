@@ -1,6 +1,6 @@
 # Project description:
 
-This personal website is built using HTML and CSS, with a responsive design that ensures it looks and functions well across various screen sizes.
+<p>This personal website is built using HTML and CSS, with a responsive design that ensures it looks and functions well across various screen sizes.</p>
 
 # Tools and Technologies Used:
 
