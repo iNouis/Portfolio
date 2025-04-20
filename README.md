@@ -7,7 +7,8 @@ This personal website is built using HTML and CSS, with a responsive design that
 <ul>
 <li>HTML: To create the website structure.</li>
 <li>CSS: For styling and layout.</li>
-<li>Responsive Design: To ensure compatibility with all devices and screen sizes.<li>
+<li>Responsive Design: To ensure compatibility with all devices and screen sizes.</li>
+</ul>
 
 
 
