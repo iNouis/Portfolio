@@ -1,8 +1,9 @@
 # Project description:
 
-<p>This personal website is built using HTML and CSS, with a responsive design that ensures it looks and functions well across various screen sizes.</p>
+<p>Interactive Dashboard for a technical conference using PowerBi.</p>
 
-# Tools and Technologies Used:
+# Dataset used:
+
 
 <ul>
 <li>HTML: To create the website structure.</li>
