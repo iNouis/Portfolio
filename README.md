@@ -1,6 +1,6 @@
 # Project description:
 
-<p>Interactive Dashboard for a technical conference using PowerBi.</p>
+<p> This project is a personal website built using HTML and CSS. The website is designed to be responsive, meaning it adapts well to different screen sizes.</p>
 
 # Dataset used:
 
